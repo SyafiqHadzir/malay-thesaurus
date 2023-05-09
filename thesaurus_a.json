@@ -1,0 +1,24 @@
+[
+    {
+        "word": "abad",
+        "key": "abad_1",
+        "pos": "noun",
+        "synonyms": [
+            "kurun",
+            "seratus tahun",
+            "sepuluh dekad",
+            "sepuluh dasawarsa"
+        ]
+    },
+    {
+        "word": "berabad-abad",
+        "key": "berabad-abad_1",
+        "pos": "adverb",
+        "synonyms": [
+            "berkurun-kurun",
+            "beratus-ratus tahun",
+            "berzaman-zaman",
+            "bertahun-tahun"
+        ]
+    }
+]
